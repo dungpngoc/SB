@@ -48,5 +48,6 @@ public class Display {
         System.out.println("1 -- Thêm công nhân mới và in ra danh sách công nhân");
         System.out.println("2 -- Thêm xưởng mới và in ra danh sách xưởng");
         System.out.println("3 -- Xem danh sách công nhân");
+        System.out.println("4 -- Xem danh sách xưởng");
     }
 }
